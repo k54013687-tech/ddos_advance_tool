@@ -1,4 +1,4 @@
-# CARA INSTALL NYA
+# cara install nya
 pkg update && pkg upgrade
 
 pkg install nodejs-lts
